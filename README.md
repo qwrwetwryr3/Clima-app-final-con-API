@@ -69,12 +69,5 @@ http://localhost:5173
 - Manejo de errores: mensajes claros si la API falla o la ciudad no existe.
 - Estilo con Bootstrap: interfaz limpia y responsiva.
 
-📸 Capturas de pantalla
-(Opcional: agrega imágenes para mejorar la presentación)
-- Home
-[Parece que el resultado no era seguro para mostrar. ¡Cambiemos de enfoque y probemos algo diferente!]
-- Detalle
-[Parece que el resultado no era seguro para mostrar. ¡Cambiemos de enfoque y probemos algo diferente!]
-
 🧑‍💻 Autor
 Proyecto desarrollado por Daniel Martínez Curilén como parte del curso Desarrollo de Aplicaciones Front-End Trainee V2.0 (Talento Digital).
